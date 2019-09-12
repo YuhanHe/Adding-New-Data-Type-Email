@@ -1,3 +1,3 @@
 # Adding-New-Data-Type-Email
 
-## Please refer `spec_v1.pdf`
+## For project describtion please refer `spec_v1.pdf`
